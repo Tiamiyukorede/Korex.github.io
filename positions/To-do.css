@@ -291,7 +291,7 @@ footer  .pron{
     background-color: #F87171;
    font-size: larger;
 }
-@media screen and (max-width:880px) {
+@media screen and (max-width:1000px) {
     
     body{
         font-family: 'Quicksand', sans-serif;
@@ -301,6 +301,7 @@ footer  .pron{
     margin-bottom: 50px;
 
 }
+
 .work{
     display: block;
      
