@@ -332,7 +332,8 @@ footer  .pron{
         width: 100%;
     }
      .product h2{
-width: 19rem;
+width: 100%;
+font-size: 35px;
     }  .product p{  
         
         width: 100%;    
